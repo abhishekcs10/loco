@@ -11,7 +11,7 @@ modules==1.0.0
 mss==3.2.0
 multidict==4.1.0
 nltk==3.2.5
-Pillow==5.1.0
+Pillow==8.1.1
 pyscreenshot==0.4.2
 pytz==2018.3
 PyYAML==3.12
