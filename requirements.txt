@@ -14,7 +14,7 @@ nltk==3.2.5
 Pillow==5.1.0
 pyscreenshot==0.4.2
 pytz==2018.3
-PyYAML==3.12
+PyYAML==5.4
 requests==2.18.4
 selenium==2.53.6
 six==1.11.0
