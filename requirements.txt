@@ -20,7 +20,7 @@ selenium==2.53.6
 six==1.11.0
 tesserocr==2.2.2
 Unidecode==1.0.22
-urllib3==1.22
+urllib3==1.26.5
 vcrpy==1.11.1
 wrapt==1.10.11
 xlib==0.21
